@@ -9,7 +9,7 @@ Para o paradigma guloso, o algoritmo leva em conta a cada iteração das opçõe
 
 <h3> 2. Seu algoritmo guloso apresenta a solução ótima? Por quê? </h3> 
 
-Não, porque ele apenas leva em consideração o valor de lucro, sem voltar atrás. 
+Não, porque ele apenas leva em consideração o valor de lucro local, sem voltar atrás. 
 
 <h3>  3. A solução poderia ser implementada usando algum outro paradigma? Qual você usaria?. </h3> 
 
